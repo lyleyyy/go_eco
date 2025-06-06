@@ -6,7 +6,8 @@ _A Flutter-based app to gamify environmental actions and encourage eco-friendly 
 
 **Go Eco** is a mobile application developed using Flutter, initially created as part of the **University of Queensland's DECO7381 Design Computing Studio 3**. The app aims to raise environmental awareness by enabling users to log eco-friendly activities, track progress, and stay motivated through goal setting and a social leaderboard.
 
-This repository contains a **refactored and improved version** of the original group project, maintained by [Lyle](https://github.com/lyleyyy).
+This repository contains the final codebase of the original group project, maintained by [Lyle](https://github.com/lyleyyy).
+Group repository: https://github.com/Ssssshirley/UQDECO7381-ShakaLakaBoom
 
 ---
 
